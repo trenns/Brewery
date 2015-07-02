@@ -2,7 +2,8 @@
 public class ClassBrewery {
 
 	public static void main(String[] args) {
-		System.out.println("Brew sequence starting...");
+		System.out.println("Brew sequence starting!");
+		System.out.println("Resetting eBrewery to initial state...");
 		
 		//put brewery into start mode, check all valves and states
 		
