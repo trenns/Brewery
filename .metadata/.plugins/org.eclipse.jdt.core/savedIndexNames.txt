@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+S:\GitHub\eBrewery\Brewery\.metadata\.plugins\org.eclipse.jdt.core
+566920771.index
+2889480267.index
+1231511745.index
+1932358246.index
+2511123432.index
+3217801846.index
+1477167563.index
+3232990776.index
+848361505.index
+1824688637.index
+524677185.index
+606813662.index
+165949451.index
+2787567615.index
+4099096992.index
+790841925.index
+3629606686.index
+2769503230.index
+2561043708.index
+3895513450.index
